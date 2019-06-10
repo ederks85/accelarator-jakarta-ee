@@ -15,3 +15,9 @@ buildNumber.properties
 .settings
 .classpath
 .project
+
+#Intellij
+.idea
+
+#jenv
+.java-version
